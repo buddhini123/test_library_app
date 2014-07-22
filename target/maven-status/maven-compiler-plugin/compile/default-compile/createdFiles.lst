@@ -1,0 +1,9 @@
+com\library\domain\Book.class
+com\library\domain\JpaTest.class
+com\library\domain\LibraryDAO.class
+com\library\domain\Member.class
+com\library\domain\Reservation.class
+com\library\domain\Borrow.class
+JPATestServlet.class
+com\library\ws\ApplicationConfiguration.class
+com\library\ws\LibraryService.class
